@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/thirdpartytool/mysql/mysqlutil.py" line="62" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29dab4e5-7ad3-4c32-a6d5-8a004cfe8633" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/.idea/SBagentpool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentcraw/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentcraw/zhandaye/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentcraw/zhandaye/zhandayeCraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentcraw/zhandaye/zhandayecommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentcraw/zhandaye/zhandayedownloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentcraw/zhandaye/zhandayeoutputer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentcraw/zhandaye/zhandayeparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentmanager/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentmanager/agentmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentmanager/agentmanagercommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/agentmanager/agentmanagerutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/bean/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/agentpool/bean/agent_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/cofig.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/common/agentsrc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/common/httpheader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/framemodule/Craw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/framemodule/Downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/framemodule/MyJob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/framemodule/Outputer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/framemodule/Parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/framemodule/UrlManager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/framemodule/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/scheduler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/scheduler/boy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/scheduler/gril.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/scheduler/myscheduler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/scheduler/schedulercommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/scheduler/threadpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/scheduler/timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/spider_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/test7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/test8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/test/test9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/thirdpartytool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/thirdpartytool/mysql/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/thirdpartytool/redis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/thirdpartytool/redis/rediscommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SBagentpool/thirdpartytool/redis/redisutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/MHBCraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/MHBUrlmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/MHBcrawcommon/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/MHBcrawcommon/commonmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/MHBcrawcommon/mhbcrawcommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/MHBcrawcommon/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/MHBdownloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/MHBparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/bean/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHBcraw/bean/gold_trade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agentpool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agentpool/agentmanager/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agentpool/agentmanager/agentmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agentpool/agentmanager/agentmanagercommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agentpool/agentmanager/agentmanagerutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agentpool/bean/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agentpool/bean/agent_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cofig.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/commonmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/httpheader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/server_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/url_parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framemodule/Craw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framemodule/Downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framemodule/MyJob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framemodule/Outputer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framemodule/Parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framemodule/UrlManager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framemodule/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/boy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/gril.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/myscheduler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/schedulercommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/threadpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirdpartytool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirdpartytool/mysql/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirdpartytool/mysql/mysqlcommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirdpartytool/mysql/mysqlutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirdpartytool/redis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirdpartytool/redis/rediscommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirdpartytool/redis/redisutil.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pythonspace$MHBmanager.coverage" NAME="MHBmanager Coverage Results" MODIFIED="1562926982237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MHBcraw" />
+    <SUITE FILE_PATH="coverage/pythonspace$asasd.coverage" NAME="asasd Coverage Results" MODIFIED="1562903755299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pythonspace$spider_main.coverage" NAME="spider_main Coverage Results" MODIFIED="1564480346526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonspace$html_outputer.coverage" NAME="html_outputer Coverage Results" MODIFIED="1562747356683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonspace$downloader_Interface.coverage" NAME="downloader_Interface Coverage Results" MODIFIED="1562925393118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framemodule" />
+    <SUITE FILE_PATH="coverage/pythonspace$Craw.coverage" NAME="Craw Coverage Results" MODIFIED="1563156897174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framemodule" />
+    <SUITE FILE_PATH="coverage/pythonspace$abc.coverage" NAME="abc Coverage Results" MODIFIED="1563161153384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/agentpool" />
+    <SUITE FILE_PATH="coverage/pythonspace$MHBUrlmanager.coverage" NAME="MHBUrlmanager Coverage Results" MODIFIED="1564476151721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MHBcraw" />
+    <SUITE FILE_PATH="coverage/pythonspace$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1563176423922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/agentpool" />
+    <SUITE FILE_PATH="coverage/pythonspace$html_downloader.coverage" NAME="html_downloader Coverage Results" MODIFIED="1562745234265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonspace$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1563171408082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/agentpool" />
+    <SUITE FILE_PATH="coverage/pythonspace$commonmap.coverage" NAME="commonmap Coverage Results" MODIFIED="1563160647734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MHBcraw/MHBcrawcommon" />
+    <SUITE FILE_PATH="coverage/pythonspace$qqq.coverage" NAME="qqq Coverage Results" MODIFIED="1562913439184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pythonspace$server.coverage" NAME="server Coverage Results" MODIFIED="1562834574072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pythonspace$url_manager.coverage" NAME="url_manager Coverage Results" MODIFIED="1562920058472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonspace$redisutil.coverage" NAME="redisutil Coverage Results" MODIFIED="1564395689469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thirdpartytool/redis" />
+    <SUITE FILE_PATH="coverage/pythonspace$agentmanagerutil.coverage" NAME="agentmanagerutil Coverage Results" MODIFIED="1564393390328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/agentpool/agentmanager" />
+    <SUITE FILE_PATH="coverage/pythonspace$html_parser.coverage" NAME="html_parser Coverage Results" MODIFIED="1562922760760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonspace$111.coverage" NAME="111 Coverage Results" MODIFIED="1563170807344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/agentpool" />
+    <SUITE FILE_PATH="coverage/pythonspace$mysqlutil.coverage" NAME="mysqlutil Coverage Results" MODIFIED="1564476051679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thirdpartytool/mysql" />
+    <SUITE FILE_PATH="coverage/pythonspace$connection.coverage" NAME="connection Coverage Results" MODIFIED="1562911117027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/urllib3" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pythonspace" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MHBcraw/MHBUrlmanager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+              <folding>
+                <element signature="e#17#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MHBcraw/bean/gold_trade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#18#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MHBcraw/MHBCraw.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/commonmap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <element signature="e#30#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MHBcraw/MHBoutputer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#15#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/httpheader.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thirdpartytool/redis/redisutil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MHBcraw/MHBcrawcommon/mhbcrawcommon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MHBcraw/MHBcrawcommon/commonmap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="14" />
+              <folding>
+                <element signature="e#34#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MHBcraw/MHBcrawcommon/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="8" selection-start-line="12" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_get_new_datas</find>
+      <find>list</find>
+      <find>urls</find>
+      <find>page</find>
+      <find>print</find>
+      <find>pr</find>
+      <find>order_by</find>
+      <find>browser</find>
+      <find>targetUrl</find>
+      <find>DesiredCapabilities</find>
+      <find>urlparse</find>
+      <find>head</find>
+      <find>cbg_MHB_request_url</find>
+      <find>mhbcraw_max_quest_timeout</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/asdas.py" />
+        <option value="$PROJECT_DIR$/common/url_parameter.py" />
+        <option value="$PROJECT_DIR$/common/server.py" />
+        <option value="$PROJECT_DIR$/common/server_info.py" />
+        <option value="$PROJECT_DIR$/common/asasd.py" />
+        <option value="$PROJECT_DIR$/common/ips.csv" />
+        <option value="$PROJECT_DIR$/common/qqq.py" />
+        <option value="$PROJECT_DIR$/html_outputer.py" />
+        <option value="$PROJECT_DIR$/url_manager.py" />
+        <option value="$PROJECT_DIR$/common/__init__.py" />
+        <option value="$PROJECT_DIR$/html_parser.py" />
+        <option value="$PROJECT_DIR$/html_downloader.py" />
+        <option value="$PROJECT_DIR$/framemodule/html_downloader.py" />
+        <option value="$PROJECT_DIR$/framemodule/downloader_Interface.py" />
+        <option value="$PROJECT_DIR$/framemodule/outputer_Interface.py" />
+        <option value="$PROJECT_DIR$/framemodule/parser_Interface.py" />
+        <option value="$PROJECT_DIR$/framemodule/url_manager_Interface.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/MHBmanager.py" />
+        <option value="$PROJECT_DIR$/framemodule/Parser.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/spider_main.py" />
+        <option value="$PROJECT_DIR$/framemodule/Craw.py" />
+        <option value="$PROJECT_DIR$/common/commonmap.py" />
+        <option value="$PROJECT_DIR$/agentpool/abc.py" />
+        <option value="$PROJECT_DIR$/agentpool/111.py" />
+        <option value="$PROJECT_DIR$/agentpool/items.py" />
+        <option value="$PROJECT_DIR$/agentpool/xicidaili_spider.py" />
+        <option value="$PROJECT_DIR$/agentpool/pipelines.py" />
+        <option value="$PROJECT_DIR$/agentpool/settings.py" />
+        <option value="$PROJECT_DIR$/framemodule/UrlManager.py" />
+        <option value="$PROJECT_DIR$/agentpool/__init__.py" />
+        <option value="$PROJECT_DIR$/agentpool/t1.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/__init__.py" />
+        <option value="$PROJECT_DIR$/thirdpartytool/redis/rediscommon.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/MHBdownloader.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/MHBcrawcommon/commonmap.py" />
+        <option value="$PROJECT_DIR$/spider_main.py" />
+        <option value="$PROJECT_DIR$/agentpool/agentmanager/agentmanagercommon.py" />
+        <option value="$PROJECT_DIR$/agentpool/bean/agent_info.py" />
+        <option value="$PROJECT_DIR$/scheduler/schedulercommon.py" />
+        <option value="$PROJECT_DIR$/thirdpartytool/redis/redisutil.py" />
+        <option value="$PROJECT_DIR$/cofig.ini" />
+        <option value="$PROJECT_DIR$/thirdpartytool/mysql/mysqlcommon.py" />
+        <option value="$PROJECT_DIR$/thirdpartytool/mysql/mysqlutil.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/bean/x_gold_trade.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/bean/gold_trade.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/MHBparser.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/MHBUrlmanager.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/MHBCraw.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/MHBcrawcommon/mhbcrawcommon.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/MHBcrawcommon/util.py" />
+        <option value="$PROJECT_DIR$/MHBcraw/MHBoutputer.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="2" />
+    <option name="width" value="1918" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonspace" type="462c0819:PsiDirectoryNode" />
+              <item name="agentpool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonspace" type="462c0819:PsiDirectoryNode" />
+              <item name="agentpool" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonspace" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonspace" type="462c0819:PsiDirectoryNode" />
+              <item name="MHBcraw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonspace" type="462c0819:PsiDirectoryNode" />
+              <item name="MHBcraw" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonspace" type="462c0819:PsiDirectoryNode" />
+              <item name="MHBcraw" type="462c0819:PsiDirectoryNode" />
+              <item name="MHBcrawcommon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonspace" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdpartytool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonspace" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdpartytool" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/xiaozhu" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonspace\framemodule" />
+      <recent name="D:\pythonspace\common" />
+      <recent name="D:\pythonspace" />
+      <recent name="D:\pythonspace\thirdpartytool" />
+      <recent name="D:\pythonspace\agentpool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonspace\thirdpartytool" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.spider_main">
+    <configuration name="MHBUrlmanager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MHBcraw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MHBcraw/MHBUrlmanager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="agentmanagerutil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/agentpool/agentmanager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/agentpool/agentmanager/agentmanagerutil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysqlutil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirdpartytool/mysql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirdpartytool/mysql/mysqlutil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redisutil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thirdpartytool/redis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thirdpartytool/redis/redisutil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spider_main" />
+        <item itemvalue="Python.MHBUrlmanager" />
+        <item itemvalue="Python.mysqlutil" />
+        <item itemvalue="Python.redisutil" />
+        <item itemvalue="Python.agentmanagerutil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29dab4e5-7ad3-4c32-a6d5-8a004cfe8633" name="Default Changelist" comment="" />
+      <created>1562741382404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562741382404</updated>
+      <workItem from="1562741385491" duration="44223000" />
+      <workItem from="1562897882715" duration="11943000" />
+      <workItem from="1562919166569" duration="5318000" />
+      <workItem from="1562924567481" duration="9380000" />
+      <workItem from="1563172555487" duration="12354000" />
+      <workItem from="1563502961318" duration="3370000" />
+      <workItem from="1563527295364" duration="2769000" />
+      <workItem from="1564121695895" duration="7377000" />
+      <workItem from="1564393305575" duration="4838000" />
+      <workItem from="1564453083813" duration="17125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118697000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985755" visible="true" weight="0.19189766" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5014245" side_tool="true" weight="0.17857143" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6759062" visible="true" weight="0.27030033" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.32409382" side_tool="true" weight="0.312026" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.32409382" side_tool="true" weight="0.312026" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.6759062" visible="true" weight="0.23943663" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirdpartytool/redis/rediscommon.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/agentpool/xicidaili_spider.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1305397759/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="584" selection-start-line="584" selection-end-line="584" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agentpool/t1.py" />
+    <entry file="file://$PROJECT_DIR$/MHBcraw/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/url_parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framemodule/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framemodule/UrlManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agentpool/ip_pool.py" />
+    <entry file="file://$PROJECT_DIR$/agentpool/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="69" column="34" lean-forward="true" selection-end-line="85" selection-end-column="10" />
+          <folding>
+            <element signature="e#32#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agentpool/bean/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agentpool/agentmanager/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/boy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framemodule/Downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agentpool/agentmanager/agentmanagerutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agentpool/agentmanager/agentmanagercommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="80" lean-forward="true" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34110">
+          <caret line="1145" selection-start-line="1145" selection-end-line="1145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#15#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/myscheduler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHBcraw/MHBdownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framemodule/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framemodule/Craw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thirdpartytool/mysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/schedulercommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thirdpartytool/redis/rediscommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="e#15#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="690" selection-start-line="690" selection-end-line="690" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thirdpartytool/redis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/MySQLdb/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cofig.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thirdpartytool/mysql/mysqlcommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding>
+            <element signature="e#15#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/DBUtils/SteadyDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler/threadpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/DBUtils/PooledDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="174" column="8" selection-start-line="174" selection-start-column="8" selection-end-line="174" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/MySQLdb/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/MySQLdb/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="471" column="6" selection-start-line="471" selection-start-column="6" selection-end-line="471" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thirdpartytool/mysql/mysqlutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="69" column="24" lean-forward="true" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/server_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agentpool/bean/agent_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="16" column="8" lean-forward="true" selection-end-line="17" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHBcraw/MHBparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHBcraw/bean/gold_trade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#18#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/commonmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#30#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHBcraw/MHBUrlmanager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="e#17#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHBcraw/MHBCraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/httpheader.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thirdpartytool/redis/redisutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHBcraw/MHBcrawcommon/commonmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="14" />
+          <folding>
+            <element signature="e#34#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHBcraw/MHBcrawcommon/mhbcrawcommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHBcraw/MHBcrawcommon/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="8" selection-start-line="12" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHBcraw/MHBoutputer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#15#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
